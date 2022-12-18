@@ -1,0 +1,132 @@
+[
+  {
+    "id": 0,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Halil",
+      "last": "Roording"
+    },
+    "email": "halil.roording@example.com",
+    "dob": "1965-03-24T09:33:39.724Z",
+    "phone": "7455566056",
+    "password": "1215"
+  },
+  {
+    "id": 1,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Jonathan",
+      "last": "Snyder"
+    },
+    "email": "jonathan.snyder@example.com",
+    "dob": "1945-05-26T00:37:31.693Z",
+    "phone": "0878171148",
+    "password": "look"
+  },
+  {
+    "id": 2,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Brayden",
+      "last": "Medina"
+    },
+    "email": "brayden.medina@example.com",
+    "dob": "1974-06-14T08:20:19.233Z",
+    "phone": "01697322292",
+    "password": "testpass"
+  },
+  {
+    "id": 3,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Fred",
+      "last": "Schmidt"
+    },
+    "email": "fred.schmidt@example.com",
+    "dob": "1968-11-23T12:03:30.502Z",
+    "phone": "5741556470",
+    "password": "picks"
+  },
+  {
+    "id": 4,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Felix",
+      "last": "Romero"
+    },
+    "email": "felix.romero@example.com",
+    "dob": "1947-10-03T12:50:31.211Z",
+    "phone": "01768342690",
+    "password": "satan666"
+  },
+  {
+    "id": 5,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Topias",
+      "last": "Lepisto"
+    },
+    "email": "topias.lepisto@example.com",
+    "dob": "1960-06-07T06:04:37.649Z",
+    "phone": "07046523",
+    "password": "ffffffff"
+  },
+  {
+    "id": 6,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Tor",
+      "last": "Røste"
+    },
+    "email": "tor.roste@example.com",
+    "dob": "1991-02-17T17:00:30.453Z",
+    "phone": "76996932",
+    "password": "kkkkkkk"
+  },
+  {
+    "id": 7,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Owen",
+      "last": "Murray"
+    },
+    "email": "owen.murray@example.com",
+    "dob": "1955-02-25T00:08:48.684Z",
+    "phone": "0845379739",
+    "password": "sandy"
+  },
+  {
+    "id": 8,
+    "gender": "female",
+    "name": {
+      "title": "Ms",
+      "first": "Tracey",
+      "last": "Cox"
+    },
+    "email": "tracey.cox@example.com",
+    "dob": "1963-07-15T00:20:22.957Z",
+    "phone": "3069532473",
+    "password": "titts"
+  },
+  {
+    "id": 9,
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Calvin",
+      "last": "Terry"
+    },
+    "email": "calvin.terry@example.com",
+    "dob": "1978-02-04T18:50:30.057Z",
+    "phone": "9372703210",
+    "password": "link"
+  }
+]
